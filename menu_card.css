@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url("blur-coffee-cafe-shop-restaurant-with-bokeh-background-xd.jpg");
+    background-size: 1520px;
+    background-attachment: fixed;
+    font-size: 15px;
+}
+.Menu{
+    background-image: url("black-wooden-plank-textured-background.jpg");
+    background-size: 650px;
+    width: 60%;
+    margin: 50px auto;
+    max-width: 600px;
+    padding: 30px;
+    font-family:sans-serif ;
+    box-shadow: 0 0 25px 10px black;
+}
+h1, h2, p{
+    text-align: center;
+}
+h1, h2, p{
+    color: white;
+}
+h1{
+    font-size: 50px;
+}
+h1,h2{
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+.item  p{
+    display: inline-block;
+}
+p{
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+.prix{
+    text-align: right;
+    width: 25%;
+}
+.contenu{
+    text-align: left;
+    width: 75%;
+}
+.h1 .hg .hd{
+    display: inline-block;
+}
+.hg{
+    width: 30%;
+    float: left;
+    background-color: brown;
+    height: 5px;
+    border: 0ch;
+}
+.hd{
+    width: 30%;
+    float: right;
+    background-color: brown;
+    border: 0ch;
+    height: 5px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+}
